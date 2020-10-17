@@ -962,10 +962,10 @@ Featured section style
 }
 .features_item .f_item_text{
     display: inline-block;
-    width:75%;
+    width:100%;
 }
 .features_item .f_item_text p{
-    font-size:14px;
+    font-size:18px;
 }
 
 /*Business Section*/
@@ -1345,3 +1345,54 @@ work Section style
     color: #ddd;
     padding: 5px;
 }
+
+#btn{
+     float: left;
+
+ }
+ #tab{
+     float: left;
+
+     position: relative;
+ }
+ .tab_btn{
+
+     color:black;
+
+     display: block;
+
+     text-align: center;
+
+     text-decoration: none;
+
+ }
+a:hover
+{
+     color:black;
+
+}
+ .tab_btn:hover{
+
+ }
+
+ .tab_div{
+
+     left: 0px;
+     top: 0px;
+     display: none;
+ }
+
+ .curr_btn{
+
+     font-weight:bold;
+     background: white !important;
+
+ }
+ .curr_div{
+     display: block !important;
+ }
+ .ul_style{
+
+
+
+ }
