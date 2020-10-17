@@ -1348,6 +1348,7 @@ work Section style
 
 #btn{
      float: left;
+    font-size:18px;
 
  }
  #tab{
@@ -1390,9 +1391,4 @@ a:hover
  }
  .curr_div{
      display: block !important;
- }
- .ul_style{
-
-
-
  }
