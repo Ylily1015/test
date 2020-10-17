@@ -1348,7 +1348,7 @@ work Section style
 
 #btn{
      float: left;
-    font-size:18px;
+
 
  }
  #tab{
@@ -1357,7 +1357,7 @@ work Section style
      position: relative;
  }
  .tab_btn{
-
+    font-size:18px;
      color:black;
 
      display: block;
